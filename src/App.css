@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  margin:30px;
+}
+
+.section{
+  float: left;
+  margin-left: 10px;
+  width: calc((100% - 60px)/3);
+  border: solid 1px;
+}
+
+.external-link{
+  height: 15px;
+  margin-left: 10px;
+}
+
+.section-header{
+  text-align: center;
+}
+
+.section-information{
+  margin:20px;
+}
+
+.flag{
+  float: right;
+  height: 15px;
+}
+
+ul{
+  list-style: none;
+}
